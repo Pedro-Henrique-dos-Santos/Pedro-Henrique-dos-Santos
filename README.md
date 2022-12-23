@@ -9,30 +9,44 @@
 <table align="right">
   <tr height="72px">
    <td align="center">
-     <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+     <img align="center" alt="Js" height="40" width="50" src="https://skillicons.dev/icons?i=javascript">
     </td>
    <td align="center">
-     <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+     <img align="center" alt="HTML" height="40" width="50" src="https://skillicons.dev/icons?i=html">
    </td>
    <td align="center">
-     <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+     <img align="center" alt="CSS" height="40" width="50" src="https://skillicons.dev/icons?i=css">
    </td>
    <td align="center">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"height="50" width="50" alt="Php" align="center" />
+     <img src="https://skillicons.dev/icons?i=react"height="50" width="50" alt="react" align="center" />
    </td>
   </tr>
  <tr >
   <td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" "height="30" width="50" alt="react" align="center"/>
+  <img src="https://skillicons.dev/icons?i=sass" "height="30" width="50" alt="sass" align="center"/>
  </td>
    <td align="center">                                                                                                                                                 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" "height="30" width="50" alt="photoshop" align="center"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" "height="30" width="50" alt="nodejs" align="center"/>
   </td>
    <td align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" "height="30" width="50" alt="jquery" align="center" />
+  <img src="https://skillicons.dev/icons?i=mysql" "height="30" width="50" alt="mysql" align="center" />
  </td>
  <td align="center">                                                                                                                                                   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" "height="30" width="50" alt="Nodejs" align="center"/>
+  <img src="https://skillicons.dev/icons?i=expressjs" "height="30" width="50" alt="expressjs" align="center"/>
+  </td>
+ </tr>
+  <tr >
+  <td align="center">
+  <img src="https://skillicons.dev/icons?i=vscode" "height="30" width="50" alt="vscode" align="center"/>
+ </td>
+   <td align="center">                                                                                                                                                 
+  <img src="https://skillicons.dev/icons?i=git" "height="30" width="50" alt="git" align="center"/>
+  </td>
+   <td align="center">
+  <img src="https://skillicons.dev/icons?i=jest" "height="30" width="50" alt="jest" align="center" />
+ </td>
+ <td align="center">                                                                                                                                                   
+  <img src="https://skillicons.dev/icons?i=ts" "height="30" width="50" alt="typescript" align="center"/>
   </td>
  </tr>
    </table>                
