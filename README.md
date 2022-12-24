@@ -29,7 +29,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs" "height="30" width="50" alt="nodejs" align="center"/>
   </td>
    <td align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" "height="30" width="50" alt="mysql" align="center" />
+  <img src="https://skillicons.dev/icons?i=mongodb" "height="30" width="50" alt="mongo" align="center" />
  </td>
  <td align="center">                                                                                                                                                   
   <img src="https://skillicons.dev/icons?i=expressjs" "height="30" width="50" alt="expressjs" align="center"/>
