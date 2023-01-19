@@ -37,13 +37,13 @@
  </tr>
   <tr >
   <td align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" "height="30" width="50" alt="vscode" align="center"/>
+  <img src="https://skillicons.dev/icons?i=redux" "height="30" width="50" alt="vscode" align="center"/>
  </td>
    <td align="center">                                                                                                                                                 
   <img src="https://skillicons.dev/icons?i=git" "height="30" width="50" alt="git" align="center"/>
   </td>
    <td align="center">
-  <img src="https://skillicons.dev/icons?i=jest" "height="30" width="50" alt="jest" align="center" />
+  <img src="https://skillicons.dev/icons?i=nestjs" "height="30" width="50" alt="jest" align="center" />
  </td>
  <td align="center">                                                                                                                                                   
   <img src="https://skillicons.dev/icons?i=ts" "height="30" width="50" alt="typescript" align="center"/>
