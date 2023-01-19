@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil! 😁
+## Welcome to my profile! 😁
 
  <div>
    <a href="https://github.com/Pedro-Henrique-dos-Santos">
@@ -6,7 +6,8 @@
    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Henrique-dos-Santos&layout=compact&langs_count=6&theme=synthwave"/>
 
 </div>
-<table align="right">
+ <h2>Used for web aplications 💻</h2>
+<table align="center">
   <tr height="72px">
    <td align="center">
      <img align="center" alt="Js" height="40" width="50" src="https://skillicons.dev/icons?i=javascript">
@@ -68,7 +69,7 @@
  
  <br>
  
-  ### Minhas redes sociais!
+  ### Social networks!
  
 <div> 
   
