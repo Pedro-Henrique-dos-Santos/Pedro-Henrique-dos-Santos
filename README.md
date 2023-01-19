@@ -49,6 +49,19 @@
   <img src="https://skillicons.dev/icons?i=ts" "height="30" width="50" alt="typescript" align="center"/>
   </td>
  </tr>
+ <tr>
+  <td>
+   <img src="https://skillicons.dev/icons?i=vscode" "height="30" width="50" alt="typescript" align="center"/>
+  </td>
+  <td>
+   <img src="https://skillicons.dev/icons?i=styledcomponents" "height="30" width="50" alt="typescript" align="center"/>
+  </td>     
+  <td>
+   <img src="https://skillicons.dev/icons?i=mysql" "height="30" width="50" alt="typescript" align="center"/>
+  </td>   
+    <td>
+   <img src="https://skillicons.dev/icons?i=prisma" "height="30" width="50" alt="typescript" align="center"/>
+  </td>                                                                                                         
    </table>                
                  
 </div>
