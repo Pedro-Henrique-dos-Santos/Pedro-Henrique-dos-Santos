@@ -6,7 +6,7 @@
    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Henrique-dos-Santos&layout=compact&langs_count=6&theme=synthwave"/>
 
 </div>
- <h2>Used for web aplications 💻</h2>
+ <h2>Used for web aplications 💻</h2><br>
  <img src="./Anime+Blogging_gif (480×270).gif" "height="288" width="486" alt="gif" align="left"/>
 <table align="right">
   <tr height="72px">
@@ -69,10 +69,21 @@
 </div>
  
  <br>
+  <br>
+<br>
+<br>
+<br>                                                                                                           
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>     
+<br>
+<br>                                                                                                           
+  <h2 align="center">Social networks !</h2>
  
-  <h2 align="left">Social networks!</h2>
- 
-<div align="left"> 
+<div align="center"> 
   
   <a href="https://www.instagram.com/ptb0y/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
