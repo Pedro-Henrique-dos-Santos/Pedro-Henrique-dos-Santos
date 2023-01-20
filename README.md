@@ -70,9 +70,9 @@
  
  <br>
  
-  ### Social networks!
+  <h2 align="left">Social networks!</h2>
  
-<div> 
+<div align="left"> 
   
   <a href="https://www.instagram.com/ptb0y/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
