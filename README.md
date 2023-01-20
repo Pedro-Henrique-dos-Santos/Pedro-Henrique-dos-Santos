@@ -23,7 +23,7 @@
      <img src="https://skillicons.dev/icons?i=react" height="40" width="60" alt="react" align="center" />
    </td>
   </tr>
- <tr >
+ <tr height="70px" >
   <td align="center">
   <img src="https://skillicons.dev/icons?i=sass" "height="40" width="60" alt="sass" align="center"/>
  </td>
@@ -37,7 +37,7 @@
   <img src="https://skillicons.dev/icons?i=expressjs" "height="40" width="60" alt="expressjs" align="center"/>
   </td>
  </tr>
-  <tr >
+  <tr height="70px" >
   <td align="center">
   <img src="https://skillicons.dev/icons?i=redux" "height="40" width="60" alt="vscode" align="center"/>
  </td>
@@ -51,7 +51,7 @@
   <img src="https://skillicons.dev/icons?i=ts" "height="40" width="60" alt="typescript" align="center"/>
   </td>
  </tr>
- <tr>
+ <tr height="70px" >
   <td>
    <img src="https://skillicons.dev/icons?i=vscode" "height="40" width="60" alt="typescript" align="center"/>
   </td>
