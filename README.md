@@ -6,7 +6,7 @@
    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Henrique-dos-Santos&layout=compact&langs_count=6&theme=synthwave"/>
 
 </div>
- <h2>Used for web aplications 💻</h2><br>
+ <h2>Used for web aplications 💻</h2>
  <img src="./Anime+Blogging_gif (480×270).gif" "height="288" width="486" alt="gif" align="left"/>
 <table align="right">
   <tr height="72px">
