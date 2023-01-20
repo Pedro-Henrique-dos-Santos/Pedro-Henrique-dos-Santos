@@ -7,7 +7,7 @@
 
 </div>
  <h2>Used for web aplications 💻</h2>
- <img src="./+Blogging_gif (480×270).gif" width="50" height="50"/>
+ <img src="" "height="30" width="50" alt="typescript" align="center"/>
 <table align="center">
   <tr height="72px">
    <td align="center">
