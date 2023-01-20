@@ -11,58 +11,58 @@
 <table align="right">
   <tr height="72px">
    <td align="center">
-     <img align="center" alt="Js" height="42" width="60" src="https://skillicons.dev/icons?i=javascript">
+     <img align="center" alt="Js" height="40" width="60" src="https://skillicons.dev/icons?i=javascript">
     </td>
    <td align="center">
-     <img align="center" alt="HTML" height="42" width="60" src="https://skillicons.dev/icons?i=html">
+     <img align="center" alt="HTML" height="40" width="60" src="https://skillicons.dev/icons?i=html">
    </td>
    <td align="center">
-     <img align="center" alt="CSS" height="42" width="60" src="https://skillicons.dev/icons?i=css">
+     <img align="center" alt="CSS" height="40" width="60" src="https://skillicons.dev/icons?i=css">
    </td>
    <td align="center">
-     <img src="https://skillicons.dev/icons?i=react" height="42" width="60" alt="react" align="center" />
+     <img src="https://skillicons.dev/icons?i=react" height="40" width="60" alt="react" align="center" />
    </td>
   </tr>
  <tr >
   <td align="center">
-  <img src="https://skillicons.dev/icons?i=sass" "height="42" width="60" alt="sass" align="center"/>
+  <img src="https://skillicons.dev/icons?i=sass" "height="40" width="60" alt="sass" align="center"/>
  </td>
    <td align="center">                                                                                                                                                 
-  <img src="https://skillicons.dev/icons?i=nodejs" "height="42" width="60" alt="nodejs" align="center"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" "height="40" width="60" alt="nodejs" align="center"/>
   </td>
    <td align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb" "height="42" width="60" alt="mongo" align="center" />
+  <img src="https://skillicons.dev/icons?i=mongodb" "height="40" width="60" alt="mongo" align="center" />
  </td>
  <td align="center">                                                                                                                                                   
-  <img src="https://skillicons.dev/icons?i=expressjs" "height="42" width="60" alt="expressjs" align="center"/>
+  <img src="https://skillicons.dev/icons?i=expressjs" "height="40" width="60" alt="expressjs" align="center"/>
   </td>
  </tr>
   <tr >
   <td align="center">
-  <img src="https://skillicons.dev/icons?i=redux" "height="42" width="60" alt="vscode" align="center"/>
+  <img src="https://skillicons.dev/icons?i=redux" "height="40" width="60" alt="vscode" align="center"/>
  </td>
    <td align="center">                                                                                                                                                 
-  <img src="https://skillicons.dev/icons?i=git" "height="42" width="60" alt="git" align="center"/>
+  <img src="https://skillicons.dev/icons?i=git" "height="40" width="60" alt="git" align="center"/>
   </td>
    <td align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs" "height="42" width="60" alt="jest" align="center" />
+  <img src="https://skillicons.dev/icons?i=nestjs" "height="40" width="60" alt="jest" align="center" />
  </td>
  <td align="center">                                                                                                                                                   
-  <img src="https://skillicons.dev/icons?i=ts" "height="42" width="60" alt="typescript" align="center"/>
+  <img src="https://skillicons.dev/icons?i=ts" "height="40" width="60" alt="typescript" align="center"/>
   </td>
  </tr>
  <tr>
   <td>
-   <img src="https://skillicons.dev/icons?i=vscode" "height="42" width="60" alt="typescript" align="center"/>
+   <img src="https://skillicons.dev/icons?i=vscode" "height="40" width="60" alt="typescript" align="center"/>
   </td>
   <td>
-   <img src="https://skillicons.dev/icons?i=styledcomponents" "height="42" width="60" alt="typescript" align="center"/>
+   <img src="https://skillicons.dev/icons?i=styledcomponents" "height="40" width="60" alt="typescript" align="center"/>
   </td>     
   <td>
-   <img src="https://skillicons.dev/icons?i=mysql" "height="42" width="60" alt="typescript" align="center"/>
+   <img src="https://skillicons.dev/icons?i=mysql" "height="40" width="60" alt="typescript" align="center"/>
   </td>   
     <td>
-   <img src="https://skillicons.dev/icons?i=prisma" "height="42" width="60" alt="typescript" align="center"/>
+   <img src="https://skillicons.dev/icons?i=prisma" "height="40" width="60" alt="typescript" align="center"/>
   </td>                                                                                                         
    </table>                
                  
