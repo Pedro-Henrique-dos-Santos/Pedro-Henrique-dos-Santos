@@ -7,7 +7,7 @@
 
 </div>
  <h2>Used for web aplications 💻</h2>
- <img src="./Anime+Blogging_gif (480×270).gif" "height="288" width="576" alt="gif" align="left"/>
+ <img src="./Anime+Blogging_gif (480×270).gif" "height="288" width="486" alt="gif" align="left"/>
 <table align="center">
   <tr height="72px">
    <td align="center">
