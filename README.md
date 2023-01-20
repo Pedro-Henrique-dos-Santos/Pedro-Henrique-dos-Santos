@@ -7,62 +7,62 @@
 
 </div>
  <h2>Used for web aplications 💻</h2>
- <img src="" "height="30" width="50" alt="typescript" align="center"/>
+ <img src="./Anime+Blogging_gif (480×270).gif" "height="288" width="576" alt="gif" align="left"/>
 <table align="center">
   <tr height="72px">
    <td align="center">
-     <img align="center" alt="Js" height="40" width="50" src="https://skillicons.dev/icons?i=javascript">
+     <img align="center" alt="Js" height="50" width="70" src="https://skillicons.dev/icons?i=javascript">
     </td>
    <td align="center">
-     <img align="center" alt="HTML" height="40" width="50" src="https://skillicons.dev/icons?i=html">
+     <img align="center" alt="HTML" height="50" width="70" src="https://skillicons.dev/icons?i=html">
    </td>
    <td align="center">
-     <img align="center" alt="CSS" height="40" width="50" src="https://skillicons.dev/icons?i=css">
+     <img align="center" alt="CSS" height="50" width="70" src="https://skillicons.dev/icons?i=css">
    </td>
    <td align="center">
-     <img src="https://skillicons.dev/icons?i=react"height="50" width="50" alt="react" align="center" />
+     <img src="https://skillicons.dev/icons?i=react" height="50" width="70" alt="react" align="center" />
    </td>
   </tr>
  <tr >
   <td align="center">
-  <img src="https://skillicons.dev/icons?i=sass" "height="30" width="50" alt="sass" align="center"/>
+  <img src="https://skillicons.dev/icons?i=sass" "height="50" width="70" alt="sass" align="center"/>
  </td>
    <td align="center">                                                                                                                                                 
-  <img src="https://skillicons.dev/icons?i=nodejs" "height="30" width="50" alt="nodejs" align="center"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" "height="50" width="70" alt="nodejs" align="center"/>
   </td>
    <td align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb" "height="30" width="50" alt="mongo" align="center" />
+  <img src="https://skillicons.dev/icons?i=mongodb" "height="50" width="70" alt="mongo" align="center" />
  </td>
  <td align="center">                                                                                                                                                   
-  <img src="https://skillicons.dev/icons?i=expressjs" "height="30" width="50" alt="expressjs" align="center"/>
+  <img src="https://skillicons.dev/icons?i=expressjs" "height="50" width="70" alt="expressjs" align="center"/>
   </td>
  </tr>
   <tr >
   <td align="center">
-  <img src="https://skillicons.dev/icons?i=redux" "height="30" width="50" alt="vscode" align="center"/>
+  <img src="https://skillicons.dev/icons?i=redux" "height="50" width="70" alt="vscode" align="center"/>
  </td>
    <td align="center">                                                                                                                                                 
-  <img src="https://skillicons.dev/icons?i=git" "height="30" width="50" alt="git" align="center"/>
+  <img src="https://skillicons.dev/icons?i=git" "height="50" width="70" alt="git" align="center"/>
   </td>
    <td align="center">
-  <img src="https://skillicons.dev/icons?i=nestjs" "height="30" width="50" alt="jest" align="center" />
+  <img src="https://skillicons.dev/icons?i=nestjs" "height="50" width="70" alt="jest" align="center" />
  </td>
  <td align="center">                                                                                                                                                   
-  <img src="https://skillicons.dev/icons?i=ts" "height="30" width="50" alt="typescript" align="center"/>
+  <img src="https://skillicons.dev/icons?i=ts" "height="50" width="70" alt="typescript" align="center"/>
   </td>
  </tr>
  <tr>
   <td>
-   <img src="https://skillicons.dev/icons?i=vscode" "height="30" width="50" alt="typescript" align="center"/>
+   <img src="https://skillicons.dev/icons?i=vscode" "height="50" width="70" alt="typescript" align="center"/>
   </td>
   <td>
-   <img src="https://skillicons.dev/icons?i=styledcomponents" "height="30" width="50" alt="typescript" align="center"/>
+   <img src="https://skillicons.dev/icons?i=styledcomponents" "height="50" width="70" alt="typescript" align="center"/>
   </td>     
   <td>
-   <img src="https://skillicons.dev/icons?i=mysql" "height="30" width="50" alt="typescript" align="center"/>
+   <img src="https://skillicons.dev/icons?i=mysql" "height="50" width="70" alt="typescript" align="center"/>
   </td>   
     <td>
-   <img src="https://skillicons.dev/icons?i=prisma" "height="30" width="50" alt="typescript" align="center"/>
+   <img src="https://skillicons.dev/icons?i=prisma" "height="50" width="70" alt="typescript" align="center"/>
   </td>                                                                                                         
    </table>                
                  
