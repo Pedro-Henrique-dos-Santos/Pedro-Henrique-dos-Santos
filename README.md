@@ -9,7 +9,7 @@
  <h2>Used for web aplications 💻</h2>
  <img src="./Anime+Blogging_gif (480×270).gif" "height="312" width="494" alt="gif" align="left"/>
 <table align="right">
-  <tr height="72px">
+  <tr height="70px">
    <td align="center">
      <img align="center" alt="Js" height="40" width="60" src="https://skillicons.dev/icons?i=javascript">
     </td>
