@@ -9,7 +9,7 @@
  <h2>Used for web aplications 💻</h2>
  <img src="./Anime+Blogging_gif (480×270).gif" "height="312" width="494" alt="gif" align="left"/>
 <table align="right">
-  <tr height="70px">
+  <tr height="69px">
    <td align="center">
      <img align="center" alt="Js" height="44" width="60" src="https://skillicons.dev/icons?i=javascript">
     </td>
@@ -23,7 +23,7 @@
      <img src="https://skillicons.dev/icons?i=react" height="44" width="60" alt="react" align="center" />
    </td>
   </tr>
- <tr height="70px" >
+ <tr height="69px" >
   <td align="center">
   <img src="https://skillicons.dev/icons?i=sass" height="44" width="60" alt="sass" align="center"/>
  </td>
@@ -37,7 +37,7 @@
   <img src="https://skillicons.dev/icons?i=expressjs" height="44" width="60" alt="expressjs" align="center"/>
   </td>
  </tr>
-  <tr height="70px" >
+  <tr height="69px" >
   <td align="center">
   <img src="https://skillicons.dev/icons?i=redux" height="44" width="60" alt="vscode" align="center"/>
  </td>
@@ -51,7 +51,7 @@
   <img src="https://skillicons.dev/icons?i=ts" height="44" width="60" alt="typescript" align="center"/>
   </td>
  </tr>
- <tr height="70px" >
+ <tr height="69px" >
   <td>
    <img src="https://skillicons.dev/icons?i=vscode" height="44" width="60" alt="typescript" align="center"/>
   </td>
